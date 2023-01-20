@@ -1,0 +1,1 @@
+alert("LABA DIENA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  kaip gyvenate?????????");
